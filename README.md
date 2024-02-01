@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🔭 I’m currently working on a financial Management Tool based on React.js for the Frontend and C# for the backenend.
+🔭 I’m currently working on a financial Management Tool based on React.js for the Frontend and C# for the backenend.\
 🌱 I’m currently learning React.js, Vite and Tailwind CSS
 <!--
 **Jamates/Jamates** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
